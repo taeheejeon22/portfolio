@@ -36,10 +36,8 @@
   "project": [
     {
       "id": 0,
-      "name": "용의자 음성식별을 위한 한국어 표현 데이터베이스구축2",
+      "name": "용의자 음성식별을 위한 한국어 표현 데이터베이스 구축 2",
       "description": "대검찰청의 발주로, 용의자 음성 식별을 목적으로 전국 9개 권역, 20세 이상 5개 연령층, 남녀별 3,000명 이상의 발화 데이터 수집",
-      "webUrl": "",
-      "repoUrl": "",
       "isTeam": true,
       "period": ["2016. 05", "2016. 11"],
       "stack": ["Praat"]
@@ -48,8 +46,6 @@
       "id": 1,
       "name": "음성 인식을 위한 음성학 개론 및 자연어처리 전문 이론 교육",
       "description": "미디어젠(기업) 사원들을 대상으로 하는 음성학 및 자연어처리 세미나에 보조 교육자로 참여함",
-      "webUrl": "",
-      "repoUrl": "",
       "isTeam": true,
       "period": ["2017. 03", "2017. 11"],
       "stack": ["MATLAB"]
@@ -58,8 +54,6 @@
       "id": 2,
       "name": "한국어에 대한 사회 음성학적 연구: 발화 속도와 발성 특성에 미치는 사회적 영향을 중심으로",
       "description": "화자의 성별, 연령 등에 따라 달라지는 음성적 특성을 분석하기 위해, 다양한 대화 상황을 고려한 자연스러운 발화 데이터 구축",
-      "webUrl": "",
-      "repoUrl": "",
       "isTeam": true,
       "period": ["2017. 07", "2018. 06"],
       "stack": ["Python", "R", "Praat"]
@@ -68,8 +62,6 @@
       "id": 3,
       "name": "음성인식 엔진 성능 개선을 위한 음성 자료 수집 연구",
       "description": "인공지능 스피커의 엔진 훈련에 필요한 음성 및 텍스트 데이터를 구축하기 위해 스피커와 사용자의 대화 상황을 고려한 자연스러운 발화 데이터 수집",
-      "webUrl": "",
-      "repoUrl": "",
       "isTeam": true,
       "period": ["2018. 02", "2018. 06"],
       "stack": ["Python", "R", "Praat"]
@@ -78,8 +70,6 @@
       "id": 4,
       "name": "치매환자 지원 라이프케어 로봇 개발",
       "description": "치매 환자 돌봄을 위한 로봇의 소프트웨어 개발",
-      "webUrl": "",
-      "repoUrl": "",
       "isTeam": true,
       "period": ["2019. 09", "2021. 08"],
       "stack": ["Python", "R", "Linux", "git", "TensorFlow", "PyTorch"]
@@ -88,8 +78,6 @@
       "id": 5,
       "name": "대화형 로봇 기반 일상생활 발화 모니터링 및 뇌파 기반 뇌기능 평가 기술 개발",
       "description": "사용자의 발화를 통해 인지 기능 저하를 모니터링하는 로봇의 소프트웨어 개발",
-      "webUrl": "",
-      "repoUrl": "",
       "isTeam": true,
       "period": ["2021. 09", "2023. 08"],
       "stack": ["Python", "R", "Linux", "git", "TensorFlow"]
@@ -98,7 +86,6 @@
       "id": 6,
       "name": "한국어 텍스트의 토큰화 방법에 관한 언어학적 연구",
       "description": "fastText를 이용하여, 언어 모델에 토큰화 방법이 미치는 영향을 언어학적으로 분석한 연구",
-      "webUrl": "",
       "repoUrl": "https://github.com/taeheejeon22/LinguisticTokenization-Korean-ft",
       "isTeam": false,
       "period": ["2021. 10", "2022. 03"],
