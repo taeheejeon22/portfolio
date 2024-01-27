@@ -1,6 +1,6 @@
 {
   "resumeTitle": {
-    "title": "전태희"
+    "title": "Taehee Jeon"
   },
 
   "information": {
@@ -106,7 +106,8 @@
     }   
   ],
 
-  "activity": "",
+  "activity": [
+  ],
 
   "education": [
     {
@@ -144,5 +145,6 @@
     }
   ],
 
-  "award": ""
+  "award": [ 
+  ]
 }
