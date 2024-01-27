@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 음성학, 음운론을 주 연구 분야로 하는 국어학 연구자입니다. 운율과 문법의 상관관계에 관심이 있으며, 박사 논문에서는 운율이 발화의 문법 구조를 반영함을 논하였습니다.
+
+- 근래에는 언어학과 AI의 접면에도 관심을 갖고 연구를 하고 있습니다. 언어학적 통찰들을 AI 알고리즘에 적용함으로써 언어 모델의 성능을 한 차원 더 높일 수 있을 것으로 믿습니다.
