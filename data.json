@@ -133,25 +133,18 @@
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "JLPT N1",
+      "date": "2011. 01. 30",
+      "organizer": "일본국제교류기금"
     },
     {
       "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "한자검정능력시험 1급",
+      "date": "2012. 08. 17",
+      "organizer": "한국어문회"
     }
   ],
 
   "award": [
-    {
-      "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
-    }
   ]
 }

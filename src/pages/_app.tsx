@@ -8,7 +8,7 @@ import type { AppProps } from "next/app";
  */
 const DEFAULT_SEO = {
   title: "전태희 | Front-End Dev",
-  description: "안녕하세요, 국어학 연구자 홍길동입니다.",
+  description: "안녕하세요. 국어학 연구자 전태희입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
