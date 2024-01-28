@@ -69,7 +69,7 @@
     {
       "id": 4,
       "name": "치매환자 지원 라이프케어 로봇 개발",
-      "description": "치매 환자 돌봄을 위한 로봇의 소프트웨어 개발",
+      "description": "치매 환자 돌봄을 위한 로봇 및 로봇 소프트웨어 개발",
       "isTeam": true,
       "period": ["2019. 09", "2021. 08"],
       "stack": ["Python", "R", "Linux", "git", "TensorFlow", "PyTorch"]
